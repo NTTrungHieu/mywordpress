@@ -13,7 +13,7 @@
 <channel>
 	<title>mùa đông &#8211; My WordPress</title>
 	<atom:link href="http://localhost/myproject/wordpress/tag/mua-dong/feed/" rel="self" type="application/rss+xml" />
-	<link>http://nttrunghieu.github.io/mywordpress</link>
+	<link>https://nttrunghieu.github.io/mywordpress</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Wed, 01 Sep 2021 03:37:17 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,8 +24,8 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>TIPS PHỐI ĐỒ CHUẨN DÀNH CHO MÙA ĐÔNG</title>
-		<link>http://nttrunghieu.github.io/mywordpress/thoi-trang/tips-phoi-do-chuan-danh-cho-mua-dong/</link>
-					<comments>http://nttrunghieu.github.io/mywordpress/thoi-trang/tips-phoi-do-chuan-danh-cho-mua-dong/#respond</comments>
+		<link>https://nttrunghieu.github.io/mywordpress/thoi-trang/tips-phoi-do-chuan-danh-cho-mua-dong/</link>
+					<comments>https://nttrunghieu.github.io/mywordpress/thoi-trang/tips-phoi-do-chuan-danh-cho-mua-dong/#respond</comments>
 		
 		<dc:creator><![CDATA[Hieu Nguyen]]></dc:creator>
 		<pubDate>Mon, 30 Aug 2021 01:07:19 +0000</pubDate>
@@ -33,11 +33,11 @@
 		<category><![CDATA[mùa đông]]></category>
 		<category><![CDATA[thời trang mùa đông]]></category>
 		<category><![CDATA[tips phối đồ]]></category>
-		<guid isPermaLink="false">http://nttrunghieu.github.io/mywordpress/?p=21</guid>
+		<guid isPermaLink="false">https://nttrunghieu.github.io/mywordpress/?p=21</guid>
 
 					<description><![CDATA[Mùa đông ngoài giữ ấm cơ thể còn phải mặc làm sao cho thời trang, nhưng nếu kết hợp trang phục không phù hợp sẽ làm bạn kém duyên hơn đấy. Gợi ý Tips phối đồ chuẩn dành cho mùa đông đẹp và đơn giản nhất, bạn có thể tham khảo ngay!]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-audio"><audio controls src="http://nttrunghieu.github.io/mywordpress/wp-content/uploads/2021/08/y2mate.com-Mariah-Carey-All-I-Want-For-Christmas-Is-You-Lyrics.mp3"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="https://nttrunghieu.github.io/mywordpress/wp-content/uploads/2021/08/y2mate.com-Mariah-Carey-All-I-Want-For-Christmas-Is-You-Lyrics.mp3"></audio></figure>
 
 
 
@@ -45,7 +45,7 @@
 
 
 
-<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="500" height="698" src="http://nttrunghieu.github.io/mywordpress/wp-content/uploads/2021/08/mot-vai-xu-huong-thoi-trang-cho-mua-dong-nam-nay1422292814.jpg" alt="" data-id="72" data-full-url="http://nttrunghieu.github.io/mywordpress/wp-content/uploads/2021/08/mot-vai-xu-huong-thoi-trang-cho-mua-dong-nam-nay1422292814.jpg" data-link="http://nttrunghieu.github.io/mywordpress/thoi-trang/tips-phoi-do-chuan-danh-cho-mua-dong/attachment/mot-vai-xu-huong-thoi-trang-cho-mua-dong-nam-nay1422292814/" class="wp-image-72"/><figcaption class="blocks-gallery-item__caption">1</figcaption></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="564" height="846" src="http://nttrunghieu.github.io/mywordpress/wp-content/uploads/2021/08/dong1.jpg" alt="" data-id="73" data-full-url="http://nttrunghieu.github.io/mywordpress/wp-content/uploads/2021/08/dong1.jpg" data-link="http://nttrunghieu.github.io/mywordpress/thoi-trang/tips-phoi-do-chuan-danh-cho-mua-dong/attachment/dong1-2/" class="wp-image-73"/><figcaption class="blocks-gallery-item__caption">2</figcaption></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="351" height="512" src="http://nttrunghieu.github.io/mywordpress/wp-content/uploads/2021/08/dong2.jpg" alt="" data-id="74" data-full-url="http://nttrunghieu.github.io/mywordpress/wp-content/uploads/2021/08/dong2.jpg" data-link="http://nttrunghieu.github.io/mywordpress/thoi-trang/tips-phoi-do-chuan-danh-cho-mua-dong/attachment/dong2-2/" class="wp-image-74"/><figcaption class="blocks-gallery-item__caption">3</figcaption></figure></li></ul></figure>
+<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="500" height="698" src="https://nttrunghieu.github.io/mywordpress/wp-content/uploads/2021/08/mot-vai-xu-huong-thoi-trang-cho-mua-dong-nam-nay1422292814.jpg" alt="" data-id="72" data-full-url="https://nttrunghieu.github.io/mywordpress/wp-content/uploads/2021/08/mot-vai-xu-huong-thoi-trang-cho-mua-dong-nam-nay1422292814.jpg" data-link="https://nttrunghieu.github.io/mywordpress/thoi-trang/tips-phoi-do-chuan-danh-cho-mua-dong/attachment/mot-vai-xu-huong-thoi-trang-cho-mua-dong-nam-nay1422292814/" class="wp-image-72"/><figcaption class="blocks-gallery-item__caption">1</figcaption></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="564" height="846" src="https://nttrunghieu.github.io/mywordpress/wp-content/uploads/2021/08/dong1.jpg" alt="" data-id="73" data-full-url="https://nttrunghieu.github.io/mywordpress/wp-content/uploads/2021/08/dong1.jpg" data-link="https://nttrunghieu.github.io/mywordpress/thoi-trang/tips-phoi-do-chuan-danh-cho-mua-dong/attachment/dong1-2/" class="wp-image-73"/><figcaption class="blocks-gallery-item__caption">2</figcaption></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="351" height="512" src="https://nttrunghieu.github.io/mywordpress/wp-content/uploads/2021/08/dong2.jpg" alt="" data-id="74" data-full-url="https://nttrunghieu.github.io/mywordpress/wp-content/uploads/2021/08/dong2.jpg" data-link="https://nttrunghieu.github.io/mywordpress/thoi-trang/tips-phoi-do-chuan-danh-cho-mua-dong/attachment/dong2-2/" class="wp-image-74"/><figcaption class="blocks-gallery-item__caption">3</figcaption></figure></li></ul></figure>
 
 
 
@@ -53,7 +53,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="397" height="600" src="http://nttrunghieu.github.io/mywordpress/wp-content/uploads/2021/09/cach-phoi-do-mua-dong-2_d974f951f87d4651bf610a75f71d3596_grande.jpg" alt="" class="wp-image-65"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="397" height="600" src="https://nttrunghieu.github.io/mywordpress/wp-content/uploads/2021/09/cach-phoi-do-mua-dong-2_d974f951f87d4651bf610a75f71d3596_grande.jpg" alt="" class="wp-image-65"/></figure>
 
 
 
@@ -124,10 +124,10 @@
 <p><iframe loading="lazy" title="YouTube video player" src="https://www.youtube.com/embed/ye5mHfw1zyI?start=50" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://nttrunghieu.github.io/mywordpress/thoi-trang/tips-phoi-do-chuan-danh-cho-mua-dong/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nttrunghieu.github.io/mywordpress/thoi-trang/tips-phoi-do-chuan-danh-cho-mua-dong/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
-		<enclosure url="http://nttrunghieu.github.io/mywordpress/wp-content/uploads/2021/08/y2mate.com-Mariah-Carey-All-I-Want-For-Christmas-Is-You-Lyrics.mp3" length="3868349" type="audio/mpeg" />
+		<enclosure url="https://nttrunghieu.github.io/mywordpress/wp-content/uploads/2021/08/y2mate.com-Mariah-Carey-All-I-Want-For-Christmas-Is-You-Lyrics.mp3" length="3868349" type="audio/mpeg" />
 
 			</item>
 	</channel>

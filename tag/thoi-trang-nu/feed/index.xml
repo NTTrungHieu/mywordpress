@@ -13,7 +13,7 @@
 <channel>
 	<title>Thời trang nữ &#8211; My WordPress</title>
 	<atom:link href="http://localhost/myproject/wordpress/tag/thoi-trang-nu/feed/" rel="self" type="application/rss+xml" />
-	<link>http://nttrunghieu.github.io/mywordpress</link>
+	<link>https://nttrunghieu.github.io/mywordpress</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Mon, 30 Aug 2021 02:05:18 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,8 +24,8 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>Thời trang mùa thu 2021 SIÊU HOT dành riêng cho PHÁI ĐẸP</title>
-		<link>http://nttrunghieu.github.io/mywordpress/thoi-trang/thoi-trang-mua-thu-2021-sieu-hot-danh-rieng-cho-phai-dep/</link>
-					<comments>http://nttrunghieu.github.io/mywordpress/thoi-trang/thoi-trang-mua-thu-2021-sieu-hot-danh-rieng-cho-phai-dep/#respond</comments>
+		<link>https://nttrunghieu.github.io/mywordpress/thoi-trang/thoi-trang-mua-thu-2021-sieu-hot-danh-rieng-cho-phai-dep/</link>
+					<comments>https://nttrunghieu.github.io/mywordpress/thoi-trang/thoi-trang-mua-thu-2021-sieu-hot-danh-rieng-cho-phai-dep/#respond</comments>
 		
 		<dc:creator><![CDATA[Hieu Nguyen]]></dc:creator>
 		<pubDate>Mon, 30 Aug 2021 00:47:32 +0000</pubDate>
@@ -33,7 +33,7 @@
 		<category><![CDATA[phái đẹp]]></category>
 		<category><![CDATA[Thời trang mùa thu]]></category>
 		<category><![CDATA[Thời trang nữ]]></category>
-		<guid isPermaLink="false">http://nttrunghieu.github.io/mywordpress/?p=18</guid>
+		<guid isPermaLink="false">https://nttrunghieu.github.io/mywordpress/?p=18</guid>
 
 					<description><![CDATA[Thời trang mùa thu 2021 là gì? Bạn đã nắm rõ chưa? Bởi qua mỗi mùa mỗi năm sẽ có những thay đổi khác nhau, chính vì vậy mà chúng tôi sẽ giúp bạn biết được phối đồ mùa thu nữ đẹp với nhiều phong cách mới lạ khác nhau về thời trang mùa thu năm nay cùng shop thời trang nữ nào!]]></description>
 										<content:encoded><![CDATA[
@@ -148,7 +148,7 @@
 <p style="line-height:1">Cuối cùng là chất liệu vải mà bạn nên ưu tiên hơn cả là vải nỉ, len, bông,da,&#8230;Hạn chế sử dụng các chất liệu vải mỏng rất không phù hợp vào mùa thu này.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://nttrunghieu.github.io/mywordpress/thoi-trang/thoi-trang-mua-thu-2021-sieu-hot-danh-rieng-cho-phai-dep/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nttrunghieu.github.io/mywordpress/thoi-trang/thoi-trang-mua-thu-2021-sieu-hot-danh-rieng-cho-phai-dep/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
