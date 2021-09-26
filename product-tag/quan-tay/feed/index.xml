@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>QUAN TAY &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/product-tag/quan-tay/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nttrunghieu.github.io/mywordpress</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Sun, 26 Sep 2021 15:52:22 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>QUẦN TÂY</title>
+		<link>https://nttrunghieu.github.io/mywordpress/product/quan-tay/</link>
+					<comments>https://nttrunghieu.github.io/mywordpress/product/quan-tay/#respond</comments>
+		
+		<dc:creator><![CDATA[Hieu Nguyen]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 15:52:13 +0000</pubDate>
+				<guid isPermaLink="false">https://nttrunghieu.github.io/mywordpress/?post_type=product&#038;p=369</guid>
+
+					<description><![CDATA[Miêu tả: QUẦN TÂY.
+
+Đặc tính: Thanh lịch - sang trọng - trẻ trung.
+
+Thể loại: Trang phục công sở, tiệc, dạo phố.
+
+Size: S/M/L.
+
+Chất liệu: Poly thun cát.
+
+Màu sắc: Đen - Nâu.
+
+Lưu ý: Ủi nhiệt độ thấp, không ngâm.
+
+Số đo mẫu nữ: Chiều cao: 168 cm. Số đo 3 vòng: 83 - 59 - 86 (Mặc size S).]]></description>
+										<content:encoded><![CDATA[Miêu tả: QUẦN TÂY.
+
+Đặc tính: Thanh lịch - sang trọng - trẻ trung.
+
+Thể loại: Trang phục công sở, tiệc, dạo phố.
+
+Size: S/M/L.
+
+Chất liệu: Poly thun cát.
+
+Màu sắc: Đen - Nâu.
+
+Lưu ý: Ủi nhiệt độ thấp, không ngâm.
+
+Số đo mẫu nữ: Chiều cao: 168 cm. Số đo 3 vòng: 83 - 59 - 86 (Mặc size S).]]></content:encoded>
+					
+					<wfw:commentRss>https://nttrunghieu.github.io/mywordpress/product/quan-tay/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
