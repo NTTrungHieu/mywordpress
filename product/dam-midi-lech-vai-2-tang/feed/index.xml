@@ -4,16 +4,13 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
-	
 	>
 <channel>
 	<title>
 	Các phản hồi luận về: ĐẦM MIDI LỆCH VAI 2 TẦNG	</title>
 	<atom:link href="http://localhost/myproject/wordpress/product/dam-midi-lech-vai-2-tang/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nttrunghieu.github.io/mywordpress/product/dam-midi-lech-vai-2-tang/</link>
-	<description>Just another WordPress site</description>
+	<description></description>
 	<lastBuildDate>Tue, 28 Sep 2021 13:05:41 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
